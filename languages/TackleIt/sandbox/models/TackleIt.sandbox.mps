@@ -350,10 +350,13 @@
         <property role="2yBZL3" value="Is this anything?" />
       </node>
       <node concept="2yBZL0" id="1N98qX6Deks" role="2yBVEW">
-        <property role="2yBZL3" value="I wouldn't mind if... (determinism versus determination)" />
+        <property role="2yBZL3" value="I wouldn't mind if... (determinism versus determination), have and have not, waste" />
       </node>
       <node concept="2yBZL0" id="1N98qX6Deky" role="2yBVEW">
         <property role="2yBZL3" value="Talking my lanuage (CLO, Managers guided, developers guide, relation to AI etc)" />
+      </node>
+      <node concept="2yBZL0" id="1N98qX6DekD" role="2yBVEW">
+        <property role="2yBZL3" value="Yellow legal pad (Paul SImon and Jerry Seinfeld), ideas bucket, box of papers (Henley)" />
       </node>
     </node>
   </node>
